@@ -1,7 +1,7 @@
+# -*- Coding: utf-8 -*-
 import cv2
 import numpy as np
 import os
-
 
 class Mask:
 
@@ -93,8 +93,8 @@ if __name__ == "__main__":
         masked_image = cv2.bitwise_and(masked_image, masked_image, mask=mask_sat)
 
         ## for debug
-        #cv2.imshow('masked', masked_image)
-        #cv2.waitKey(0)
+        # cv2.imshow('masked', masked_image)
+        # cv2.waitKey(0)
 
         cv2.imwrite(save_dir + '/' + filename, masked_image)
 
