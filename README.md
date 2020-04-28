@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Readme
 ニューマインド用撮影検査の行い方
 - python == 3.7.0
@@ -198,3 +199,6 @@ acquisition.pyで撮影した検品対象画像を指定する場合, captured i
 =======
 # multi_inspection
 >>>>>>> origin/master
+=======
+# multi_inspection
+>>>>>>> ca72e4785f5cc7dd86db798b8eee724a99ce347d
