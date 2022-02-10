@@ -18,5 +18,5 @@ sklearn==0.0
 spinnaker-python==1.27.0.48
 statsmodels==0.10.2
 tensorboard==2.1.0
-tensorflow==2.1.0
+tensorflow==2.5.3
 tensorflow-estimator==2.1.0
